@@ -1,0 +1,5 @@
+name: laf_db_backup
+methods:
+  - GET
+  - POST
+tags: []
